@@ -1,6 +1,6 @@
 # cofactor-figure-data
-files containing the data and code to reproduce the figures in the review
-Dependencies:
+files containing the data and code to reproduce the figures in the review.
+Requires the following dependencies:
 ```
 pip install pandas
 pip install plotly 
