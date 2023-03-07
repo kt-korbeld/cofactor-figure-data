@@ -1,6 +1,6 @@
 # cofactor-figure-data
-files containing the data and code to reproduce the figures in the review.
-Requires the following dependencies:
+Juypiter notebook and files containing the data and code to reproduce the figures in the review.
+Contains both python and R code. Requires the following dependencies:
 ```
 pip install pandas
 pip install plotly 
